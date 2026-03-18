@@ -1,4 +1,5 @@
-## Olá! Bem-vindo(a) ao meu espaço no GitHub! 🎯
+## Olá!👋 
+Bem-vindo(a) ao meu espaço no GitHub! 
 
 💬 Sou **Técnica em Desenvolvimento de Sistemas em formação**, PCD física uso andador e estou em transição da área Administrativa para este novo mundo da tecnologia. Sou muito organizada, comprometida e curiosa para aprender assuntos novos e que vem para facilitar a vida através da tecnologia e da IA.
 
@@ -20,16 +21,20 @@
 
 **Curso Técnico em Desenvolvimento de Sistemas:** - Abaixo estão as aplicações práticas dos conhecimentos adquiridos no meu curso. ⤵
 
-📂 **[Curso Técnico em DS](https://github.com/thays-reis2026/projetos-tecnico-senac)**
+📂 [Curso Técnico em DS - CLIQUE AQUI](https://github.com/thays-reis2026/projetos-tecnico-senac)
 
 ---
 
-✍ #CURSOS COMPLEMENTARES
+#CURSOS COMPLEMENTARES
 
-🌐 **Front-End (HTML, CSS & JS)** - Projeto focado em interface, acessibilidade e experiência do usuário. ⤵
+* 🌐**Front-End (HTML, CSS & JS)** 
 
-[Ada Lovelace Biography](https://thays-reis2026.github.io/meu-primeiro-codigo/): Site biográfico desenvolvido com foco em HTML semântico e acessibilidade responsivo em celular e computador.
+Projeto focado em interface, acessibilidade e experiência do usuário. ⤵
 
-🐍 **Análise de Dados | Python** - Explorações em análise de dados, automação e bibliotecas estatísticas.
+[Ada Lovelace Biography - CLIQUE AQUI](https://thays-reis2026.github.io/meu-primeiro-codigo/): Site biográfico desenvolvido com foco em HTML semântico e acessibilidade, responsivo em celular e computador.
+
+* 🐍**Análise de Dados | Python**
+
+Explorações em análise de dados, automação e bibliotecas estatísticas. ⤵
 
 Projeto de Análise de Dados: (Em desenvolvimento) - Utilizando Pandas e Matplotlib para extração de insights.
