@@ -19,13 +19,6 @@
 ---
 🛠**MINHA JORNADA TECH: PROJETOS**
 
-*Abaixo estão as aplicações práticas do conhecimento adquirido nos cursos acima:*
+*Abaixo estão as aplicações práticas do conhecimento adquirido no meu curso Técnico de Desenvolvimento de Sistemas:*
 
-💻 **Lógica de Programação (Portugol)**
-* [Loja de Jogos](https://github.com/thays-reis2026/projetos-tecnico-senac/blob/main/portugol-loja-de-jogos.por)
-* [Sugestão de Pratos](https://github.com/thays-reis2026/projetos-tecnico-senac/blob/main/portugol-sugestao-de-pratos.por)
-
-🗄️ **Banco de Dados (SQL)**
-* [Modelagem de Streaming](https://github.com/thays-reis2026/projetos-tecnico-senac/blob/main/mysql-modelagem-de-streaming.mwb)
-
-📂 **[Acesse o Repositório Completo](https://github.com/thays-reis2026/projetos-tecnico-senac)**
+📂 **[Curso Técnico em DS](https://github.com/thays-reis2026/projetos-tecnico-senac)**
