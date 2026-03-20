@@ -6,7 +6,7 @@ Em uma jornada de transição da área Administrativa para o mundo da tecnologia
 
 Atualmente, aplico essa visão analítica em projetos práticos de Desenvolvimento Web (HTML/CSS/JS), Lógica de programação, Análise de Dados com Python (Pandas/Matplotlib) e fundamentos de Back-end com foco em APIs. Desenvolvi soluções focadas em acessibilidade e semântica, além de automações e extração de insights a partir de dados brutos. 
 
-A baixo você pode dar uma olhada nos projetos que já fiz no decorrer do meu curso técnico e em cursos complementares. Estou em busca da minha primeira oportunidade na área técnica, motivada a evoluir e contribuir com soluções reais e inovadoras 🚀.
+Abaixo você pode dar uma olhada nos projetos que já fiz no decorrer do meu curso técnico e em cursos complementares. Estou em busca da minha primeira oportunidade na área técnica, motivada a evoluir e contribuir com soluções reais e inovadoras 🚀.
 
 🎯 **Minhas Skills Técnicas:**
 
@@ -19,12 +19,11 @@ A baixo você pode dar uma olhada nos projetos que já fiz no decorrer do meu cu
 ---
 |**MINHA JORNADA TECH: PROJETOS**
 
-**Curso Técnico em Desenvolvimento de Sistemas:** - Abaixo estão as aplicações práticas dos conhecimentos adquiridos no meu curso. 
+**Curso Técnico em Desenvolvimento de Sistemas:** - Abaixo estão as aplicações práticas dos conhecimentos adquiridos no meu curso.
 
 📂 [Curso Técnico em DS - CLIQUE AQUI](https://github.com/thays-reis2026/projetos-tecnico-senac) ◀
 
 ---
-
 |**CURSOS COMPLEMENTARES**
 
 🌐 **Front-End (HTML, CSS & JS)** 
