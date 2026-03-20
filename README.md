@@ -31,7 +31,7 @@ A baixo você pode dar uma olhada nos projetos que já fiz no decorrer do meu cu
 
 Desenvolvimento de site biográfico responsivo para celular e desktop, utilizando HTML5, CSS3 e JavaScript. Aplicação de estrutura semântica e boas práticas de acessibilidade, com criação de interfaces organizadas e estilização responsiva. Implementação de interatividade com JavaScript, incluindo manipulação de formulários e lógica condicional. ⤵
 
-[Ada Lovelace Biography - CLIQUE AQUI](https://thays-reis2026.github.io/meu-primeiro-codigo/): 
+📂 [Ada Lovelace Biography - CLIQUE AQUI](https://github.com/thays-reis2026/meu-primeiro-codigo):
 
 🐍 **Análise de Dados | Python**
 
