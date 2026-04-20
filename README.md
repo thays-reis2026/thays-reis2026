@@ -1,4 +1,6 @@
-**Bem-vindo(a) ao meu espaço no GitHub!** 👋
+**Bem-vindo(a) ao meu espaço no GitHub!** 👋 
+
+🇧🇷 🇺🇸
 
 💬♿ Técnica em Desenvolvimento de Sistemas em formação | PCD física
 
@@ -16,21 +18,59 @@ Abaixo você pode dar uma olhada nos projetos que já fiz no decorrer do meu cur
 ---
 🌍 **IDIOMAS**
 * **Inglês:** Nível Intermediário (Leitura e compreensão técnica)
+
 ---
+
 |**MINHA JORNADA TECH: PROJETOS**
 
-**Curso Técnico em Desenvolvimento de Sistemas:** - Abaixo estão as aplicações práticas dos conhecimentos adquiridos no meu curso.
+**Curso Técnico em Desenvolvimento de Sistemas:** 
+
+Abaixo estão as aplicações práticas dos conhecimentos adquiridos no meu curso.
 
 📂 [Curso Técnico em DS - CLIQUE AQUI](https://github.com/thays-reis2026/projetos-tecnico-senac) ◀
 
 ---
 |**CURSOS COMPLEMENTARES**
 
-🌐 **Front-End (HTML, CSS & JS)** 
+🌐 **Front-End (HTML, CSS & JS) - PrograMaria** 
+
+🇺🇸 **English**
+
+Development of a responsive biographical website for mobile and desktop using HTML5, CSS3, and JavaScript. Focused on semantic structure and web accessibility best practices (A11y) to create organized interfaces and responsive styling. Implemented interactivity with JavaScript, including form handling and conditional logic.
+
+--- 
+
+ 🇧🇷 **Português**
 
 Desenvolvimento de site biográfico responsivo para celular e desktop, utilizando HTML5, CSS3 e JavaScript. Aplicação de estrutura semântica e boas práticas de acessibilidade, com criação de interfaces organizadas e estilização responsiva. Implementação de interatividade com JavaScript, incluindo manipulação de formulários e lógica condicional. 
 
 📂 [Ada Lovelace Biography - CLIQUE AQUI](https://github.com/thays-reis2026/meu-primeiro-codigo) ◀
+
+🌐 **Front-End (HTML, CSS & JS) - Alura**
+
+🇺🇸 **English**
+
+**Front-End Immersion + AI: THAFLIX Project**
+
+Developed a dynamic streaming interface called THAFLIX during Alura's Front-End Immersion. The project involved building a responsive UI from scratch using semantic HTML5 and advanced CSS3 techniques (Grid and Flexbox).
+
+Key features include dynamic profile selection and a movie catalog powered by JavaScript DOM manipulation. The development process leveraged AI tools to enhance code efficiency, accessibility, and user experience design, resulting in a high-quality professional portfolio piece.
+
+Skills: Front-End Development, Responsive Design, JavaScript, and AI-assisted coding.
+
+---
+
+🇧🇷 **Português**
+
+**Imersão Front-End com IA: Projeto THAFLIX**
+
+Durante a Imersão Front-End da Alura, desenvolvi o THAFLIX, uma interface de streaming funcional e responsiva. O projeto focou na aplicação prática de HTML5 semântico e CSS3 (Grid e Flexbox) para criar um layout moderno e intuitivo.
+
+Implementei interatividade dinâmica com JavaScript para a seleção de perfis e navegação no catálogo de mídia. Um diferencial do projeto foi a integração de fluxos de trabalho auxiliados por Inteligência Artificial para otimizar o desenvolvimento e garantir boas práticas de acessibilidade (Alt Text) e UI/UX.
+
+**Tecnologias:** HTML, CSS, JavaScript e ferramentas de IA.
+
+📂 [THAFLIX: Streaming Interface - CLIQUE AQUI](https://github.com/thays-reis2026/imersao-frontend-ia) ◀ 
 
 🐍 **Análise de Dados | Python**
 
