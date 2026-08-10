@@ -38,13 +38,13 @@ Abaixo estão as aplicações práticas dos conhecimentos adquiridos no meu curs
 
 Development of a responsive biographical website for mobile and desktop using HTML5, CSS3, and JavaScript. Focused on semantic structure and web accessibility best practices (A11y) to create organized interfaces and responsive styling. Implemented interactivity with JavaScript, including form handling and conditional logic.
 
---- 
-
  🇧🇷 **Português**
 
 Desenvolvimento de site biográfico responsivo para celular e desktop, utilizando HTML5, CSS3 e JavaScript. Aplicação de estrutura semântica e boas práticas de acessibilidade, com criação de interfaces organizadas e estilização responsiva. Implementação de interatividade com JavaScript, incluindo manipulação de formulários e lógica condicional. 
 
 📂 [Ada Lovelace Biography - CLIQUE AQUI](https://github.com/thays-reis2026/meu-primeiro-codigo) ◀
+
+---
 
 🌐 **Front-End (HTML, CSS & JS) - Alura**
 
@@ -57,8 +57,6 @@ Developed a dynamic streaming interface called THAFLIX during Alura's Front-End 
 Key features include dynamic profile selection and a movie catalog powered by JavaScript DOM manipulation. The development process leveraged AI tools to enhance code efficiency, accessibility, and user experience design, resulting in a high-quality professional portfolio piece.
 
 Skills: Front-End Development, Responsive Design, JavaScript, and AI-assisted coding.
-
----
 
 🇧🇷 **Português**
 
