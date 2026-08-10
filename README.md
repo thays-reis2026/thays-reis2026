@@ -21,54 +21,36 @@ Abaixo você pode dar uma olhada nos projetos que já fiz no decorrer do meu cur
 
 ---
 
-|**MINHA JORNADA TECH: PROJETOS**
+|**MINHA JORNADA TECH:**
 
 **Curso Técnico em Desenvolvimento de Sistemas:** 
 
 Abaixo estão as aplicações práticas dos conhecimentos adquiridos no meu curso.
 
-📂 [Curso Técnico em DS - CLIQUE AQUI](https://github.com/thays-reis2026/projetos-tecnico-senac) ◀
+**PROJETOS** ⤵
+
+📂 [Curso Técnico em DS - CLIQUE AQUI](https://github.com/thays-reis2026/projetos-tecnico-senac) 
 
 ---
 |**CURSOS COMPLEMENTARES**
 
-🌐 **Front-End (HTML, CSS & JS) - PrograMaria** 
+💻 **Front-End (HTML, CSS & JavaScript)** 
 
 🇺🇸 **English**
 
-Development of a responsive biographical website for mobile and desktop using HTML5, CSS3, and JavaScript. Focused on semantic structure and web accessibility best practices (A11y) to create organized interfaces and responsive styling. Implemented interactivity with JavaScript, including form handling and conditional logic.
+Development of responsive and interactive web interfaces using HTML5, CSS3, and JavaScript. Projects focused on semantic structure, responsive design, accessibility (A11y), UI/UX, DOM manipulation, forms, and interactive features. Practical experience gained through Front-End training and hands-on projects.
 
  🇧🇷 **Português**
 
-Desenvolvimento de site biográfico responsivo para celular e desktop, utilizando HTML5, CSS3 e JavaScript. Aplicação de estrutura semântica e boas práticas de acessibilidade, com criação de interfaces organizadas e estilização responsiva. Implementação de interatividade com JavaScript, incluindo manipulação de formulários e lógica condicional. 
+Desenvolvimento de interfaces web responsivas e interativas utilizando HTML5, CSS3 e JavaScript. Projetos com foco em estrutura semântica, design responsivo, acessibilidade (A11y), UI/UX, manipulação do DOM, formulários e recursos interativos. Experiência prática desenvolvida por meio de cursos de Front-End e projetos aplicados.
 
-📂 [Ada Lovelace Biography - CLIQUE AQUI](https://github.com/thays-reis2026/meu-primeiro-codigo) ◀
+📂 **Projetos**
+
+🔗 [Ada Lovelace Biography - CLIQUE AQUI](https://github.com/thays-reis2026/meu-primeiro-codigo) — Programaria 
+
+🔗 [THAFLIX: Streaming Interface - CLIQUE AQUI](https://github.com/thays-reis2026/imersao-frontend-ia) — Alura 
 
 ---
-
-🌐 **Front-End (HTML, CSS & JS) - Alura**
-
-🇺🇸 **English**
-
-**Front-End Immersion + AI: THAFLIX Project**
-
-Developed a dynamic streaming interface called THAFLIX during Alura's Front-End Immersion. The project involved building a responsive UI from scratch using semantic HTML5 and advanced CSS3 techniques (Grid and Flexbox).
-
-Key features include dynamic profile selection and a movie catalog powered by JavaScript DOM manipulation. The development process leveraged AI tools to enhance code efficiency, accessibility, and user experience design, resulting in a high-quality professional portfolio piece.
-
-Skills: Front-End Development, Responsive Design, JavaScript, and AI-assisted coding.
-
-🇧🇷 **Português**
-
-**Imersão Front-End com IA: Projeto THAFLIX**
-
-Durante a Imersão Front-End da Alura, desenvolvi o THAFLIX, uma interface de streaming funcional e responsiva. O projeto focou na aplicação prática de HTML5 semântico e CSS3 (Grid e Flexbox) para criar um layout moderno e intuitivo.
-
-Implementei interatividade dinâmica com JavaScript para a seleção de perfis e navegação no catálogo de mídia. Um diferencial do projeto foi a integração de fluxos de trabalho auxiliados por Inteligência Artificial para otimizar o desenvolvimento e garantir boas práticas de acessibilidade (Alt Text) e UI/UX.
-
-**Tecnologias:** HTML, CSS, JavaScript e ferramentas de IA.
-
-📂 [THAFLIX: Streaming Interface - CLIQUE AQUI](https://github.com/thays-reis2026/imersao-frontend-ia) ◀ 
 
 🐍 **Análise de Dados | Python**
 
