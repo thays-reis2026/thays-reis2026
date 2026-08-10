@@ -25,11 +25,11 @@ Abaixo você pode dar uma olhada nos projetos que já fiz no decorrer do meu cur
 
 **Curso Técnico em Desenvolvimento de Sistemas:** 
 
-Abaixo estão as aplicações práticas dos conhecimentos adquiridos no meu curso.
+Aqui estão alguns dos projetos e aplicações práticas desenvolvidos ao longo do curso, demonstrando conhecimentos adquiridos em programação, banco de dados, desenvolvimento web e análise de sistemas.
 
 **PROJETOS** ⤵
 
-📂 [Curso Técnico em DS - CLIQUE AQUI](https://github.com/thays-reis2026/projetos-tecnico-senac) 
+📂 [Curso Técnico em DS - VER PROJETOS](https://github.com/thays-reis2026/projetos-tecnico-senac) 
 
 ---
 |**CURSOS COMPLEMENTARES**
