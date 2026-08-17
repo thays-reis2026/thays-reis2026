@@ -2,13 +2,13 @@
 
 🇧🇷 🇺🇸
 
-💬♿ Técnica em Desenvolvimento de Sistemas em formação | PCD física
+💬 ♿ Graduanda em Engenharia de Software | Técnica em Desenvolvimento de Sistemas | PCD
 
-Em uma jornada de transição da área Administrativa para o mundo da tecnologia, acredito que minha base sólida em gestão me proporciona uma visão diferenciada sobre organização, processos e eficiência. Minha missão é transformar requisitos complexos em códigos limpos e experiências que facilitem o dia a dia das pessoas.
+Em uma jornada de transição da área Administrativa para a tecnologia, utilizo minha base em gestão para agregar organização, visão por processos e eficiência aos projetos. Cursando o Bacharelado em Engenharia de Software e o Técnico em Desenvolvimento de Sistemas, minha missão é transformar requisitos complexos em códigos limpos, funcionais e acessíveis.
 
-Atualmente, aplico essa visão analítica em projetos práticos de Desenvolvimento Web (HTML/CSS/JS), Lógica de programação, Análise de Dados com Python (Pandas/Matplotlib) e fundamentos de Back-end com foco em APIs. Desenvolvi soluções focadas em acessibilidade e semântica, além de automações e extração de insights a partir de dados brutos. 
+Atualmente, aplico essa visão em projetos práticos de Desenvolvimento Web (HTML/CSS/JavaScript), Lógica de Programação, Análise de Dados com Python (Pandas/Matplotlib) e fundamentos de Back-end com foco em APIs. Tenho interesse especial em soluções acessíveis, semânticas e automações.
 
-Abaixo você pode dar uma olhada nos projetos que já fiz no decorrer do meu curso técnico e em cursos complementares. Estou em busca da minha primeira oportunidade na área técnica, motivada a evoluir e contribuir com soluções reais e inovadoras 🚀.
+Abaixo você pode conferir os projetos que desenvolvi ao longo da minha formação e cursos complementares. Estou em busca da minha primeira oportunidade na área de Tecnologia, motivada a evoluir continuamente e contribuir com soluções reais 🚀.
 
 🎯 **Minhas Skills Técnicas:**
 
