@@ -52,6 +52,16 @@ Desenvolvimento de interfaces web responsivas e interativas utilizando HTML5, CS
 
 ---
 
-🐍 **Análise de Dados | Python**
+🐍 **Análise de Dados | Python | SQL**
 
-Projeto de Análise de Dados **(em desenvolvimento):** análise de dados com Python utilizando Pandas, NumPy, Matplotlib e Seaborn, com foco em limpeza, manipulação e visualização de dados, além de consultas com SQLite e uso de Jupyter Notebook.
+ 🇧🇷 **Português**
+
+Projetos de Análise de Dados desenvolvidos durante o curso da PrograMaria, envolvendo manipulação, tratamento e análise exploratória de dados com Python (Pandas, NumPy e SciPy), consultas em bancos de dados relacionais com SQL (SQLite/DBeaver) e criação de visualizações com Matplotlib, Seaborn, Plotly e Looker Studio.
+
+🇺🇸 **English**
+
+Data Analysis projects developed during the PrograMaria course, covering data manipulation, cleaning, and exploratory analysis using Python (Pandas, NumPy, and SciPy), relational database queries with SQL (SQLite/DBeaver), and data visualization with Matplotlib, Seaborn, Plotly, and Looker Studio.
+
+📂 **Projetos**
+
+🔗 [Projetos de Análise de Dados](https://github.com/thays-reis2026/projeto-dados-programaria) — PrograMaria
