@@ -4,17 +4,46 @@
 
 💬 ♿ Graduanda em Engenharia de Software | Técnica em Desenvolvimento de Sistemas | PCD
 
-Em uma jornada de transição da área Administrativa para a tecnologia, utilizo minha base em gestão para agregar organização, visão por processos e eficiência aos projetos. Cursando o Bacharelado em Engenharia de Software e o Técnico em Desenvolvimento de Sistemas, minha missão é transformar requisitos complexos em códigos limpos, funcionais e acessíveis.
+Estou em transição da área Administrativa para a Tecnologia, trazendo comigo uma 
+base sólida em gestão, organização e visão por processos — habilidades que aplico 
+hoje para escrever código mais limpo, estruturado e funcional.
 
-Atualmente, aplico essa visão em projetos práticos de Desenvolvimento Web (HTML/CSS/JavaScript), Lógica de Programação, Análise de Dados com Python (Pandas/Matplotlib) e fundamentos de Back-end com foco em APIs. Tenho interesse especial em soluções acessíveis, semânticas e automações.
+Cursando simultaneamente o Bacharelado em Engenharia de Software e o Técnico em 
+Desenvolvimento de Sistemas, minha missão é transformar requisitos complexos em 
+soluções acessíveis e bem construídas.
 
-Abaixo você pode conferir os projetos que desenvolvi ao longo da minha formação e cursos complementares. Estou em busca da minha primeira oportunidade na área de Tecnologia, motivada a evoluir continuamente e contribuir com soluções reais 🚀.
+### 🚀 O que venho desenvolvendo
 
-🎯 **Minhas Skills Técnicas:**
+Atualmente aplico meus conhecimentos em projetos práticos de:
 
-* **Análise de Dados:** Python (Pandas, Numpy), SQL (DBeaver, MySQL) e manipulação de dados para insights, criação de dashboards e gráficos (Matplotlib, Seaborn, Looker).
-* **Front-End** Lógica de programação, HTML, CSS e JavaScript.
-* **Inteligência Artificial:** Desenvolvimento e implementação de Agentes de IA.
+- 💻 **Desenvolvimento Web** — HTML, CSS e JavaScript
+- 🧠 **Lógica de Programação** — fundamentos sólidos aplicados a problemas reais
+- 📊 **Análise de Dados** — Python (Pandas, NumPy), SQL, visualização com Matplotlib/Seaborn
+- 🤖 **Inteligência Artificial** — desenvolvimento e uso de agentes de IA
+- 🔌 **Back-end** — fundamentos em java
+- 🎨 **UI/UX Design** — prototipação de interfaces no Figma, com foco em navegação intuitiva e experiência do usuário
+ 
+
+Tenho interesse especial em **soluções acessíveis, semânticas e automações** — 
+uma conexão direta entre minha vivência como pessoa com deficiência e o tipo de 
+tecnologia que quero construir.
+
+---
+
+### 🎯 Minhas Skills Técnicas
+
+**Análise de Dados**
+`Python (Pandas, NumPy)` `SQL (MySQL, DBeaver)` `Matplotlib` `Seaborn` `Looker`
+
+**Front-End**
+`HTML` `CSS` `JavaScript` `Lógica de Programação`
+
+**UI/UX Design**
+`Figma` `Prototipação` `Wireframes` `Design de Interfaces`
+
+**Inteligência Artificial**
+`Desenvolvimento de Agentes de IA`
+
 ---
 🌍 **IDIOMAS**
 * **Inglês:** Nível Intermediário (Leitura e compreensão técnica)
