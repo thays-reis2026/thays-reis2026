@@ -20,7 +20,7 @@ Atualmente aplico meus conhecimentos em projetos práticos de:
 - 🧠 **Lógica de Programação** — fundamentos sólidos aplicados a problemas reais
 - 📊 **Análise de Dados** — Python (Pandas, NumPy), SQL, visualização com Matplotlib/Seaborn
 - 🤖 **Inteligência Artificial** — desenvolvimento e uso de agentes de IA
-- 🔌 **Back-end** — fundamentos em java
+- 🔌 **Back-end e Java** — fundamentos de Java, com aplicações desktop em Swing feitas no NetBeans
 - 🎨 **UI/UX Design** — prototipação de interfaces no Figma, com foco em navegação intuitiva e experiência do usuário
  
 
@@ -37,6 +37,9 @@ tecnologia que quero construir.
 
 **Front-End**
 `HTML` `CSS` `JavaScript` `Lógica de Programação`
+
+**Java**
+`Java` `Swing` `NetBeans` `Programação Orientada a Objetos`
 
 **UI/UX Design**
 `Figma` `Prototipação` `Wireframes` `Design de Interfaces`
